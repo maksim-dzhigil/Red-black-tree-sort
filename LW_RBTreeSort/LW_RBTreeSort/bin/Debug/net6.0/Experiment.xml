@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<experiments>
+	<experiment name= "SortTree">
+		<nodes name = "Arithmetic Progression" minElement = "0" maxElement = "300" startLength="1000" diff = "100" maxLength = "3000" repeat = "15">
+		</nodes>
+		<nodes name = "Arithmetic Progression" minElement= "0" maxElement = "1000" startLength="2000" diff = "100" maxLength = "5000" repeat = "15">
+		</nodes>
+		<nodes name = "Arithmetic Progression" minElement = "0" maxElement = "10000" startLength="1000" diff = "100" maxLength = "10000" repeat = "15">
+		</nodes>
+		<nodes name = "Geometric Progression" minElement = "0" maxElement = "20" startLength="10" Znamen = "2" maxLength = "1000" repeat = "10">
+		</nodes>
+		<nodes name = "Geometric Progression" minElement = "0" maxElement = "1000" startLength="10" Znamen = "5" maxLength = "10000" repeat = "10">
+		</nodes>
+	</experiment>
+</experiments>

@@ -1,0 +1,15 @@
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/bin/Debug/net6.0/LW_RBTreeSort
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/bin/Debug/net6.0/LW_RBTreeSort.deps.json
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/bin/Debug/net6.0/LW_RBTreeSort.runtimeconfig.json
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/bin/Debug/net6.0/LW_RBTreeSort.dll
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/bin/Debug/net6.0/LW_RBTreeSort.pdb
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.csproj.AssemblyReference.cache
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.AssemblyInfoInputs.cache
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.AssemblyInfo.cs
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.csproj.CoreCompileInputs.cache
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.dll
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/refint/LW_RBTreeSort.dll
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.pdb
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/LW_RBTreeSort.genruntimeconfig.cache
+/home/maksim/RiderProjects/LW_RBTreeSort/LW_RBTreeSort/obj/Debug/net6.0/ref/LW_RBTreeSort.dll
